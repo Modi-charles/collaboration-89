@@ -4,6 +4,5 @@
 ![Screenshot 2025-03-05 102105](https://github.com/user-attachments/assets/3ba3b2af-2278-47bc-904f-de9363d9f7e9)
 
 "Arrays"
-
-![Screenshot 2025-03-05 103550](https://github.com/user-attachments/assets/773db347-7ab9-4449-84dd-c17b9132ce6e)
-![Screenshot 2025-03-05 103751](https://github.com/user-attachments/assets/8cc3c360-2655-4221-9f0e-135e2ba71760)
+![Screenshot 2025-03-06 073643](https://github.com/user-attachments/assets/89586304-8d46-40a2-92e1-deaea4625d4f)
+![Screenshot 2025-03-06 073919](https://github.com/user-attachments/assets/c7b0d03f-2c63-435d-a1b3-d5ea10992759)
