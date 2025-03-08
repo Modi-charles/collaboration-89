@@ -1,4 +1,14 @@
-# Introduction to ds
+#Group Members
+Modi Charles 012240378
+Simon Lodule paulino 012240282
+Jimaga Emmanuel Madrara 011250714
+Wangkalo Fred 012240323
+Kruhanga Eddy 012240364
+
+
+
+
+## Introduction to ds
 "Average marks obtained."
 ![Screenshot 2025-03-05 101902](https://github.com/user-attachments/assets/7d60e7d4-9202-46bb-b253-85996ec2f853)
 ![Screenshot 2025-03-05 102105](https://github.com/user-attachments/assets/3ba3b2af-2278-47bc-904f-de9363d9f7e9)
