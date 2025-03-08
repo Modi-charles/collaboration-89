@@ -3,7 +3,7 @@ Modi Charles 012240378
 Simon Lodule paulino 012240282
 Jimaga Emmanuel Madrara 011250714
 Wangkalo Fred 012240323
-Kruhanga Eddy 012240364
+Karuhanga Eddy 012240364
 
 
 
